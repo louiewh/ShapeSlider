@@ -1,6 +1,6 @@
 # ShapeSlider
 
-<img src="./ShapeSlider.png" width="210px">
+<img src="./ShapeSlider.png" width="720px">
 
 ```kotlin
 fun ShapeSlider(
