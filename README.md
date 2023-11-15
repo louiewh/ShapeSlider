@@ -1,5 +1,7 @@
 # ShapeSlider
 
+![image-20231114151035574](./ShapeSlider.png)
+
 ```kotlin
 fun ShapeSlider(
     value: Float,
@@ -104,7 +106,3 @@ ShapeSlider(
         )
 )
 ```
-
-
-
-![image-20231114151035574](./ShapeSlider.png)
