@@ -1,6 +1,6 @@
 # ShapeSlider
 
-![image-20231114151035574](./ShapeSlider.png)
+![image-20231114151035574](./ShapeSlider.png){ width=50% height=auto }
 
 ```kotlin
 fun ShapeSlider(
